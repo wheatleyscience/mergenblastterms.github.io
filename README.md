@@ -1,8 +1,7 @@
-# mergenblastterms.github.io
-mergenblasterms
+
 Privacy Policy
 
-Effective date: December 12, 2018
+Effective date: June 12, 2019
 
 Shiba Games ("us", "we", or "our") operates the Merge n Blast mobile application (the "Service").
 
